@@ -1,3 +1,5 @@
+# this program checks disk and cpu usage 
+
 import shutil
 import psutil
 
