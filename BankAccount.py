@@ -1,5 +1,4 @@
-# Python Program explaining  
-# https://www.youtube.com/watch?v=PMFd95RgIwE
+# Python Program explaining OOP 
 
 class BankAccount:
     def __init__(self, initialAmount, acctName):
